@@ -31,6 +31,7 @@ INSERT INTO dataofcustomer  VALUES('C00010','Shankar',null,'Nair','Chennai',90,'
 
 show tables;
 
+
 CREATE TABLE account
    (
       acnumber VARCHAR(6),
