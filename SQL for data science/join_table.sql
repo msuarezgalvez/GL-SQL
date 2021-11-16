@@ -2,6 +2,7 @@ create database mydemo_final;
 
 use mydemo_final;
 
+
 show tables;
 
 CREATE TABLE dataofcustomer
