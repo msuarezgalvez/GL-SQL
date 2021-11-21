@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `countries` (
   KEY `COUNTR_REG_FK` (`REGION_ID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
+
 --
 -- Dumping data for table `countries`
 --
