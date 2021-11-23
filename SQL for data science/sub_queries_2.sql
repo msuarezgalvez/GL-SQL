@@ -58,6 +58,7 @@ INSERT INTO account VALUES('A00009','C00003','B00007',1000,'2008-11-30','Saving'
 INSERT INTO account VALUES('A00010','C00004','B00002',1000,'2013-03-01','Saving','Active');
 
 show tables;
+
 select count( *) from dataofcustomer;
 
 select * from dataofcustomer where custid in (select custid from dataofcustomer where age>=45);
