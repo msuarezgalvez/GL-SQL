@@ -2,6 +2,7 @@ create database joins_demo_2;
 
 use joins_demo_2;
 
+
 CREATE TABLE dataofcustomer
    (
        custid VARCHAR(6)  PRIMARY KEY,
