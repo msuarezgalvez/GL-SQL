@@ -1,6 +1,8 @@
 create database hr2;
 use hr2;
 
+
+
 CREATE TABLE IF NOT EXISTS `countries` (
   `COUNTRY_ID` varchar(2) NOT NULL,
   `COUNTRY_NAME` varchar(40) DEFAULT NULL,
